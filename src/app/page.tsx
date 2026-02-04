@@ -336,7 +336,7 @@ const Page = () => {
             }}
           >
             <Link
-              href="https://chess-game-actias-d95ab6485636.herokuapp.com/game"
+              href="https://chess-ui-b6fe82ae9552.herokuapp.com/game"
               target="_blank"
             >
               Link: Website (not optimized for mobile devices)
