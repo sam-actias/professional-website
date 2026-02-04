@@ -34,7 +34,7 @@ const Page = () => {
     return (
       <>
         <Typography variant="h1" align="center">
-          sam actias
+          samson actias
         </Typography>
         <Image
           src={`/images/woods.jpg`}
